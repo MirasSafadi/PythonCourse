@@ -1,2 +1,2 @@
 # PythonCourse
-All the questions in the booklet
+All OOP questions in the booklet
